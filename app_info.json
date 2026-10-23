@@ -1,0 +1,18 @@
+{
+  "slug": "Sentiment_A",
+  "entry": "app.py",
+  "title": "Análisis de sentimiento",
+  "category": "Texto",
+  "headline": "Una frase.",
+  "accent": "Un tono.",
+  "description": "Estima la polaridad y la subjetividad de una frase escrita en español.",
+  "input": "Una frase en español.",
+  "output": "Puntuaciones de polaridad y subjetividad y una etiqueta de sentimiento.",
+  "steps": "Abre Analizar texto y escribe una frase. La app la traduce y calcula sus puntuaciones.",
+  "technology": "TextBlob · Google Translate",
+  "limits": "Es una estimación léxica, no una evaluación de la persona. Puede fallar ante ironía y matices.",
+  "image": "OIG8.jpg",
+  "url": "https://sentimenta-fwspjacy4ftfwwdzq3gybn.streamlit.app/",
+  "repo": "https://github.com/Jhuza/Sentiment_A",
+  "kind": "document"
+}
